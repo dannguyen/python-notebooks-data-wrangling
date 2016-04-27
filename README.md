@@ -12,8 +12,11 @@ A set of iPython notebooks on data wrangling and visualization for Stanford Comp
 
 ## Data extraction
 
+Recipes for extracting (but _not_ cleaning/wrangling) machine-readable data from raw sources.
+
 - [NASA plaintext data files](Data-Extraction--NASA-Text.ipynb)
 - [California Dept. of Education Excel spreadsheets](Data-Extraction--CDE-XLS.ipynb)
-
+- [Texas Dept. of Justice; Death row inmates - HTML scraping with lxml](Data-Extraction--Texas-Death-Row-Executions.ipynb)
+- [Texas Dept. of Justice; Executions - HTML crawling with Beautiful Soup](Data-Extraction--Texas-Death-Row-Executions.ipynb)
 
 
