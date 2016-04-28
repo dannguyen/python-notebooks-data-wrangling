@@ -36,11 +36,15 @@ The results can be found in the __extracted__ subdirectories in [data](data).
 
 ## Pandas
 
+- [10 Minutes to pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html)
+- [Pandas cookbook](http://pandas.pydata.org/pandas-docs/stable/cookbook.html#cookbook)
 - [An Introduction to Pandas, via Michael Hansen](http://synesthesiam.com/posts/an-introduction-to-pandas.html)
 - [12 Useful Pandas Techniques in Python for Data Manipulation](http://www.analyticsvidhya.com/blog/2016/01/12-pandas-techniques-python-data-manipulation/)
+- [Things in Pandas I Wish I'd Known Earlier](http://nbviewer.jupyter.org/github/rasbt/python_reference/blob/master/tutorials/things_in_pandas.ipynb)
 - [Useful Pandas Snippets gist cheatsheet](https://gist.github.com/bsweger/e5817488d161f37dcbd2)
 - [Intro to pandas data structures](http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/)
   - [Part 2: Working with DataFrames](http://www.gregreda.com/2013/10/26/working-with-pandas-dataframes/)
   - [Part 3: Using pandas with the MovieLens dataset](http://www.gregreda.com/2013/10/26/using-pandas-on-the-movielens-dataset/)
 - [Quandl's Numpy/Scipy/Pandas cheat sheet](https://s3.amazonaws.com/quandl-static-content/Documents/Quandl+-+Pandas,+SciPy,+NumPy+Cheat+Sheet.pdf)
-- 
+- [Dataconomy's 14 best Python Pandas features](http://dataconomy.com/14-best-python-pandas-features/)
+- [Brandon Rhodes - Pandas From The Ground Up - PyCon 2015 (Video)](https://www.youtube.com/watch?v=5JnMutdy6Fw)
