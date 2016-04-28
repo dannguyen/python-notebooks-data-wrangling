@@ -23,3 +23,24 @@ The results can be found in the __extracted__ subdirectories in [data](data).
 - [Texas Dept. of Justice; Executions - HTML crawling with Beautiful Soup](Data-Extraction--Texas-Death-Row-Executions.ipynb) (in progress)
 
 
+
+
+# Resources
+
+## Matplotlib
+
+- [Matplotlib homepage](http://matplotlib.org/)
+  + [Examples index](http://matplotlib.org/examples/index.html)
+- [How to make beautiful data visualizations in Python with matplotlib](http://www.randalolson.com/2014/06/28/how-to-make-beautiful-data-visualizations-in-python-with-matplotlib/)
+
+
+## Pandas
+
+- [An Introduction to Pandas, via Michael Hansen](http://synesthesiam.com/posts/an-introduction-to-pandas.html)
+- [12 Useful Pandas Techniques in Python for Data Manipulation](http://www.analyticsvidhya.com/blog/2016/01/12-pandas-techniques-python-data-manipulation/)
+- [Useful Pandas Snippets gist cheatsheet](https://gist.github.com/bsweger/e5817488d161f37dcbd2)
+- [Intro to pandas data structures](http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/)
+  - [Part 2: Working with DataFrames](http://www.gregreda.com/2013/10/26/working-with-pandas-dataframes/)
+  - [Part 3: Using pandas with the MovieLens dataset](http://www.gregreda.com/2013/10/26/using-pandas-on-the-movielens-dataset/)
+- [Quandl's Numpy/Scipy/Pandas cheat sheet](https://s3.amazonaws.com/quandl-static-content/Documents/Quandl+-+Pandas,+SciPy,+NumPy+Cheat+Sheet.pdf)
+- 
