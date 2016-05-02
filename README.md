@@ -24,7 +24,7 @@ The results can be found in the __extracted__ subdirectories in [data](data).
 
 ## Visualization
 
-- [Visualizing the relationship between SAT performance and percentage of students eligible for free-or-reduced-price lunch](Visualization-School-Scores-and-Poverty.ipynb).
+- [Visualizing the relationship between SAT performance and percentage of students eligible for free-or-reduced-price lunch](Visualization--School-Scores-and-Poverty.ipynb).
 
 
 
