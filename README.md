@@ -22,6 +22,10 @@ The results can be found in the __extracted__ subdirectories in [data](data).
 - [Texas Dept. of Justice; Death row inmates - HTML scraping with lxml](Data-Extraction--Texas-Death-Row-Executions.ipynb)
 - [Texas Dept. of Justice; Executions - HTML crawling with Beautiful Soup](Data-Extraction--Texas-Death-Row-Executions.ipynb) (in progress)
 
+## Visualization
+
+- [Visualizing the relationship between SAT performance and percentage of students eligible for free-or-reduced-price lunch](Visualizing-School-Scores-and-Poverty.ipynb).
+
 
 
 
