@@ -1,15 +1,4 @@
-c,d,s
-r,e,c,o,r,d,_,t,y,p,e
-s,c,h,o,o,l,_,n,a,m,e
-d,i,s,t,r,i,c,t,_,n,a,m,e
-c,o,u,n,t,y,_,n,a,m,e
-e,n,r,o,l,l,m,e,n,t,_,9,_,1,2
-n,u,m,b,e,r,_,o,f,_,t,e,s,t,_,t,a,k,e,r,s
-a,v,g,_,r,e,a,d,i,n,g,_,s,c,o,r,e
-a,v,g,_,m,a,t,h,_,s,c,o,r,e
-a,v,g,_,w,r,i,t,i,n,g,_,s,c,o,r,e
-n,u,m,b,e,r,_,s,c,o,r,e,s,_,g,t,e,_,1,5,0,0
-p,e,r,c,e,n,t,_,s,c,o,r,e,s,_,g,t,e,_,1,5,0,0
+cds,record_type,school_name,district_name,county_name,enrollment_9_12,number_of_test_takers,avg_reading_score,avg_math_score,avg_writing_score,number_scores_gte_1500,percent_scores_gte_1500
 00000000000000,X,,,,1952314,296908,492,506,489,137030,46.15
 01000000000000,C,,,Alameda,66686,12919,517,541,520,7382,57.14
 01100170000000,D,,Alameda County Office of Educa,Alameda,1308,112,423,419,425,22,19.64
