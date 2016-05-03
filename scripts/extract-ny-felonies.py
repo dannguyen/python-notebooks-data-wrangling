@@ -13,7 +13,6 @@ OUTPUT_HEADERS = ['occurrence_date', 'object_id', 'identifier', 'compstat_date',
                   'xcoord', 'ycoord', 'latitude', 'longitude']
 OUTPUT_FILENAME = DATA_DIR.joinpath('bulk-data-nypd-7-major-felonies.csv')
 
-
 print("Downloading", DATA_URL)
 resp = requests.get(DATA_URL)
 datarows = list(csv.DictReader(resp.text.splitlines()))
@@ -43,7 +42,6 @@ for d in datarows:
     except ValueError as err:
         x['occurrence_date'] = None
 
-
     # Some Compstat values are blank
     # apparently compstat date is different than occurence date...
     try:
@@ -59,7 +57,6 @@ for d in datarows:
         x['latitude'], x['longitude'] = _mtch.groups()
     else:
         x['latitude'] = x['longitude'] = None
-
     # finally, write it to the csv
     outcsv.writerow(x)
 
