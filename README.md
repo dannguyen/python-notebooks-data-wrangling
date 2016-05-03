@@ -10,7 +10,12 @@ A set of iPython notebooks on data wrangling and visualization for Stanford Comp
 # Contents
 
 
-## Data extraction
+## Practicum
+
+These notebooks are walkthroughs of common matplotlib and pandas techniques.
+
+
+### Data extraction
 
 Recipes for extracting (but _not_ cleaning/wrangling) machine-readable data from raw sources.
 
@@ -22,9 +27,17 @@ The results can be found in the __extracted__ subdirectories in [data](data).
 - [Texas Dept. of Justice; Death row inmates - HTML scraping with lxml](Data-Extraction--Texas-Death-Row-Executions.ipynb)
 - [Texas Dept. of Justice; Executions - HTML crawling with Beautiful Soup](Data-Extraction--Texas-Death-Row-Executions.ipynb) (in progress)
 
-## Visualization
+### Wrangling
+
+- [Pivot Tables with Pandas](Wrangling--Pivot-Tables-with-Pandas.ipynb) - An exploration into San Francisco crime data.
+
+### Visualization
 
 - [Visualizing the relationship between SAT performance and percentage of students eligible for free-or-reduced-price lunch](Visualization--School-Scores-and-Poverty.ipynb).
+
+
+
+
 
 
 
