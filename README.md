@@ -49,7 +49,7 @@ The results can be found in the __extracted__ subdirectories in [data](data).
 - [Matplotlib homepage](http://matplotlib.org/)
   + [Examples index](http://matplotlib.org/examples/index.html)
 - [How to make beautiful data visualizations in Python with matplotlib](http://www.randalolson.com/2014/06/28/how-to-make-beautiful-data-visualizations-in-python-with-matplotlib/)
-
+- [Subplots in matplotlib](https://plot.ly/matplotlib/subplots/)
 
 ## Pandas
 
